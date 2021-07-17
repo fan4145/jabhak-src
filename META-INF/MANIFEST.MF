@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: trollage
+Implementation-Version: 1.0-SNAPSHOT
+Specification-Vendor: Noculator
+Specification-Title: fpsplus
+Implementation-Timestamp: 2021-06-30T19:30:44+0700
+Specification-Version: 1
+Implementation-Vendor: Noculator
+

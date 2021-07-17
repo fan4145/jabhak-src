@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "trollage",
+    "name": "FPSPLUS++",
+    "description": "A 1.12.2 mod for boosting your FPS!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Noculator"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
