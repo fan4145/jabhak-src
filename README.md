@@ -1,5 +1,9 @@
-idk heres the src of jabhak
+# JabHak Source
 
-this isnt actually a client lol its just another optifine skid, im not even gonna upload the jar cuz just use optifine lmfao, its better than this shit
- 
-it was ratted but i cleaned it and only uploaded the src
+- noat / me actually skid this rat lmao, credit to Huzuni+ 2 rat.
+- wasn't an optifine skid, purpose was to disguise as a fps booster :shrug:
+
+- use intellij to build, chinese cause rush.
+- won't tell who wants me to made the rat :sunglasses:
+
+# DERPY OR NOAT AIN'T RESPONSIBLE FOR WHAT THE FUCK YOU DO WITH THIS CODE
