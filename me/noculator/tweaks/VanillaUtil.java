@@ -78,7 +78,7 @@
 /*    */ }
 
 
-/* Location:              C:\Users\SusanLindsay\Downloads\JabHak.safe.jar!\me\noculator\tweaks\VanillaUtil.class
+/* Location:              C:\Users\derp\Downloads\JabHak.safe.jar!\me\noculator\tweaks\VanillaUtil.class
  * Java compiler version: 8 (52.0)
  * JD-Core Version:       1.1.3
  */
