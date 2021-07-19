@@ -3258,7 +3258,7 @@
 /*      */ }
 
 
-/* Location:              C:\Users\SusanLindsay\Downloads\JabHak.safe.jar!\me\noculator\tweaks\VanillaLightEngine.class
+/* Location:              C:\Users\derp\Downloads\JabHak.safe.jar!\me\noculator\tweaks\VanillaLightEngine.class
  * Java compiler version: 8 (52.0)
  * JD-Core Version:       1.1.3
  */
